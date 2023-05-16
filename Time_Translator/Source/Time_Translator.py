@@ -1,3 +1,5 @@
+# BloodAlibi // 2022
+
 import time
 
 print("Hello, welcome to Time Translator.")
